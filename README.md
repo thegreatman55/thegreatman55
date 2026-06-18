@@ -1,8 +1,7 @@
 ## Hi there, I'm OLAWALE 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Mining+Engineer+%7C+Data+Driven+Problem+Solver;Turning+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+Analytics" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Power+BI+Developer;Mining+Engineer+(FUTA+Graduate);Power+BI+%7C+SQL+%7C+Python;Turning+Data+into+Insights" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mosesogunyemi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -94,8 +93,8 @@ When I'm not working with data, I enjoy learning new analytical tools, improving
 ## 📫 Let's Connect
 
 - 📧 Email: **Ogunyemiolawale83@gmail.com**  
-- 💼 LinkedIn: *(https://linkedin.com/in/mosesogunyemi)*  
-- 🌐 Portfolio: *(add GitHub Pages or website when ready)*  
+- 💼 LinkedIn: **https://linkedin.com/in/mosesogunyemi**  
+- 🌐 Portfolio: _  
 
 ---
 
