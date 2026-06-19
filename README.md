@@ -94,7 +94,7 @@ When I'm not working with data, I enjoy learning new analytical tools, improving
 
 - 📧 Email: **Ogunyemiolawale83@gmail.com**  
 - 💼 LinkedIn: **https://linkedin.com/in/mosesogunyemi**  
-- 🌐 Portfolio: _  
+- 🌐 Portfolio: **https://thegreatman55.github.io**
 
 ---
 
